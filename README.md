@@ -1,3 +1,2 @@
 # Practice
-hello
-hello 
+A repository for practicing basics
